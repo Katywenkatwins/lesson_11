@@ -253,7 +253,7 @@ border-radius: 75% 25% 0% 100% / 100% 0% 100% 0%  ;
 .header__image{
 	width: 20%;
 	height: 100px;
-	background: url("../img/IMG_8494.PNG") 0 0 / 14% no-repeat;
+	background: url("../img/yoga.png") 0 0 / 14% no-repeat;
 	position: absolute;
 	z-index: 101;
 	top: 0;
