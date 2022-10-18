@@ -181,8 +181,7 @@ width: 150px;
 	height: 40px;
 	border-radius: 0% 100% 0% 100% / 0% 0% 100% 100% ;
 	background-color: rgb(230, 255, 8);
-	box-shadow: 10px 10px 42px 0px rgba(245, 241, 0, 0.79);
-	top: 130;
+	box-shadow: 10px 10px 42px 0px rgba(245, 241, 0, 0.79);	
 	left: 100px;
 }
 
@@ -190,7 +189,6 @@ width: 150px;
 	border-radius: 0% 100% 41% 59% / 100% 0% 100% 0% ;
 	background-color: rgb(231, 53, 53);
 	box-shadow: 10px 10px 42px 0px rgba(245,0,0,0.79);
-	top: 130;
 	left: 0;
 }
 
